@@ -1,0 +1,21 @@
+GSE156336 CALR CANDIDATE GENE ANNOTATION SUMMARY
+================================================
+
+Total candidate genes: 1986
+
+Higher in CALR: 1167
+
+Lower in CALR: 819
+
+Successfully annotated: 1986
+
+Not found: 0
+
+Annotation source:
+NCBI Gene / Entrez E-utilities
+
+Scientific limitation:
+These candidates originate from an exploratory comparison
+containing only 3 CALR samples. They are not confirmed
+biomarkers or definitive differentially expressed genes
+without appropriate statistical and independent validation.
