@@ -1,0 +1,9 @@
+Milestone: public-data quantitative analysis
+Dataset: GSE156336
+NCBI verification: PASS
+Sample manifest: 22 samples; CALR=3, JAK2=3, triple-negative=12, healthy=4
+Processed CPM matrix: NCBI record confirmed; local acquisition attempted
+Runtime acquisition status: BLOCKED in current container by DNS/network resolution
+Quantitative expression results: NOT GENERATED
+Biological inference: WITHHELD pending verified matrix acquisition
+Independent validation registry: GSE103237

@@ -1,0 +1,7 @@
+claim_id	claim	source_type	status
+CALR-01	CALR exon 9 contains the canonical Type 1 52-bp deletion and Type 2 5-bp insertion	Literature review	verified
+CALR-02	Type 1/Type 2 are +1 frameshift events producing altered C termini	Review literature	verified
+CALR-03	Non-canonical CALR exon 9 indels can be classified as type-like based on molecular resemblance	Literature review	verified
+CALR-04	Unusual CALR indels may require sequence-level clarification	2026 concordance study	verified
+CALR-05	Some non-Type I/II CALR variants may be germline rather than somatic	2026 diagnostic study	verified
+CALR-06	Current computational protein layer is not clinical assay validation	Project methods	verified

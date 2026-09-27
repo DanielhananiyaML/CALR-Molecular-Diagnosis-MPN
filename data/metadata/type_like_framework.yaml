@@ -1,0 +1,22 @@
+variant_classification_framework:
+  purpose: "Research annotation framework; not a clinical classification algorithm"
+  canonical:
+    type_1:
+      defining_event: "52-bp exon 9 deletion"
+      protein: "p.L367fs*46"
+    type_2:
+      defining_event: "5-bp exon 9 insertion"
+      protein: "p.K385fs*47"
+  non_canonical:
+    type_1_like:
+      criteria:
+        - "exon 9 indel with +1 frameshift"
+        - "C-terminal remodeling resembling Type 1 in extent/pattern of acidic-region loss"
+    type_2_like:
+      criteria:
+        - "exon 9 indel with +1 frameshift"
+        - "C-terminal remodeling resembling Type 2 in extent/pattern of retained wild-type acidic region"
+  caution:
+    - "Do not infer somatic status from sequence pattern alone."
+    - "Rare variants near 50% allele fraction may require germline investigation."
+    - "Fragment size alone should not determine frame or biological class."

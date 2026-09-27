@@ -1,0 +1,3 @@
+class	hgvs	protein_change	reference_accession	reference_length	mutant_length	expected_length	length_match	novel_c_terminal_length	c_terminal_sequence	reference_fasta_sha256
+Type 1	NM_004343.4:c.1099_1150del	p.Leu367ThrfsTer46 (p.L367fs*46)	NP_004334.1	417	411	411	True	45	TRRMMRTKMRMRRMRRTRRKMRRKMSPARPRTSCREACLQGWTEA	1b749136ca82cc9fbf195aca35f2c39043a318cce41da48b2acde6f5b53f4270
+Type 2	NM_004343.4:c.1154_1155insTTGTC	p.Lys385AsnfsTer47 (p.K385fs*47)	NP_004334.1	417	430	430	True	46	NCRRMMRTKMRMRRMRRTRRKMRRKMSPARPRTSCREACLQGWTEA	1b749136ca82cc9fbf195aca35f2c39043a318cce41da48b2acde6f5b53f4270

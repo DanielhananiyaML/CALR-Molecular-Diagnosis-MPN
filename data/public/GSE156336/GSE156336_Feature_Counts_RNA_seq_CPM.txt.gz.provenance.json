@@ -1,0 +1,9 @@
+{
+  "dataset": "GSE156336_CPM",
+  "accession": "GSE156336",
+  "source": "NCBI GEO",
+  "url": "https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE156336&file=GSE156336_Feature_Counts_RNA_seq_CPM.txt.gz&format=file",
+  "filename": "GSE156336_Feature_Counts_RNA_seq_CPM.txt.gz",
+  "bytes": 3087827,
+  "sha256": "725c334d6d7aa04ea6c27a39a430d4e42169806d83fbd18eb78f68b0a75ddb8a"
+}

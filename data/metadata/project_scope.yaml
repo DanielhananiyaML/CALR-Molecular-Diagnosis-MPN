@@ -1,0 +1,18 @@
+project: CALR-Molecular-Diagnosis-MPN
+primary_transcript: NM_004343.4
+primary_ensembl: ENST00000316448.10
+gene: CALR
+chromosome: chr19
+assembly: GRCh38
+cytoband: 19p13.13
+focus: CALR exon 9 indels in BCR::ABL1-negative myeloproliferative neoplasms
+canonical_variants:
+  type1:
+    legacy_hgvs: NM_004343.3:c.1092_1143del52
+    mane_hgvs: NM_004343.4:c.1099_1150del
+    protein: p.Leu367fs
+    length_change: -52
+  type2:
+    mane_hgvs: NM_004343.4:c.1154_1155insTTGTC
+    protein: p.Lys385fs
+    length_change: 5

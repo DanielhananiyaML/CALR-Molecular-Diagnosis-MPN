@@ -1,0 +1,3 @@
+class	legacy_hgvs	mane_hgvs	protein	net_change_bp	consequence	context
+Type 1	NM_004343.3:c.1092_1143del52	NM_004343.4:c.1099_1150del	p.Leu367fs (commonly p.L367fs*46)	-52	frameshift	CALR exon 9; canonical MPN-associated variant
+Type 2		NM_004343.4:c.1154_1155insTTGTC	p.Lys385fs (commonly p.K385fs*47)	5	frameshift	CALR exon 9; canonical MPN-associated variant

@@ -1,0 +1,4 @@
+accession	title	platform	design	samples	CALR_ET	JAK2_ET	healthy_controls	role
+GSE156336	Triple negative, JAK2V617F and CALR mutated essential thrombocythaemia patients share a unique gene expression signature [RNA-seq]	GPL16791 Illumina HiSeq 2500	PBMC RNA-seq; ET mutation groups plus healthy controls	22	3	3	4	primary exploratory RNA-seq cohort
+GSE103237	Gene and miRNA expression profiles in Polycythemia Vera and Essential Thrombocythemia according to CALR and JAK2 mutations [GEP]	GPL13667 expression array	CD34+ cell expression; PV and ET with mutation stratification; normal donors represented through related dataset	65	7	17	15	independent validation/biological-context cohort
+GSE54644	Integrated genomic analysis illustrates the central role of JAK-STAT pathway activation in myeloproliferative neoplasm pathogenesis [MPN patients]	expression array	MPN expression cohort with PV, ET, MF and normal donors	104	NA	NA	11	pathway/context validation cohort

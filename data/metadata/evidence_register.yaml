@@ -1,0 +1,29 @@
+project: CALR-Molecular-Diagnosis-MPN
+version: 0.3.3
+scope: public-evidence-register
+entries:
+  - id: NCBI-CALR-REFSEQ
+    source: NCBI RefSeq
+    accession: NM_004343.4
+    protein: NP_004334.1
+    claim: Reviewed CALR transcript/protein reference pair
+    url: https://www.ncbi.nlm.nih.gov/nuccore/NM_004343.4
+  - id: CALR-TYPE1
+    source: ClinVar / literature
+    hgvs: NM_004343.4:c.1099_1150del
+    protein: p.Leu367fs
+    legacy: NM_004343.3:c.1092_1143del52
+    claim: Canonical Type 1 CALR exon 9 deletion
+  - id: CALR-TYPE2
+    source: ClinVar / literature
+    hgvs: NM_004343.4:c.1154_1155insTTGTC
+    protein: p.Lys385fs
+    claim: Canonical Type 2 CALR exon 9 insertion
+  - id: CALR-BIOLOGY
+    source: PubMed
+    claim: Type-like classification relates to altered acidic stretches and mutant C-terminal properties
+    url: https://pubmed.ncbi.nlm.nih.gov/26449662/
+  - id: CALR-MPN
+    source: PubMed
+    claim: CALR exon 9 frameshift mutations are recurrent somatic drivers in JAK2-nonmutated MPNs
+    url: https://pubmed.ncbi.nlm.nih.gov/24325359/

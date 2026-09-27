@@ -1,0 +1,23 @@
+sample_accession	matrix_column	group	description
+GSM4729196	CALR1	CALR	CALR Patient 1
+GSM4729197	CALR2	CALR	CALR Patient 2
+GSM4729198	CALR3	CALR	CALR Patient 3
+GSM4729199	Control1	Healthy	Healthy Control 1
+GSM4729200	Control2	Healthy	Healthy Control 2
+GSM4729201	Control3	Healthy	Healthy Control 3
+GSM4729202	Control4	Healthy	Healthy Control 4
+GSM4729203	JAK1	JAK2	JAK2 Patient 1
+GSM4729204	JAK2	JAK2	JAK2 Patient 2
+GSM4729205	JAK3	JAK2	JAK2 Patient 3
+GSM4729206	TN1	Triple_negative	TN Patient 1
+GSM4729207	TN2	Triple_negative	TN Patient 10
+GSM4729208	TN3	Triple_negative	TN Patient 11
+GSM4729209	TN4	Triple_negative	TN Patient 12
+GSM4729210	TN5	Triple_negative	TN Patient 2
+GSM4729211	TN6	Triple_negative	TN Patient 3
+GSM4729212	TN7	Triple_negative	TN Patient 4
+GSM4729213	TN8	Triple_negative	TN Patient 5
+GSM4729214	TN9	Triple_negative	TN Patient 6
+GSM4729215	TN10	Triple_negative	TN Patient 7
+GSM4729216	TN11	Triple_negative	TN Patient 8
+GSM4729217	TN12	Triple_negative	TN Patient 9

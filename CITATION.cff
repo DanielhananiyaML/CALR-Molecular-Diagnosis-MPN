@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it."
+title: "CALR Molecular Diagnosis in BCR::ABL1-Negative Myeloproliferative Neoplasms"
+authors:
+  - family-names: Hananiya
+    given-names: Daniel
+version: 0.3.0
+type: software
+license: MIT
+repository-code: "https://github.com/DanielhananiyaML/CALR-Molecular-Diagnosis-MPN"

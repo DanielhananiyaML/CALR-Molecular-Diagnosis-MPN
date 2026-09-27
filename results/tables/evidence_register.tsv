@@ -1,0 +1,6 @@
+id	source	reference_variant_or_topic	claim	interpretation_guardrail
+NCBI-CALR-REFSEQ	NCBI RefSeq	NM_004343.4 / NP_004334.1	Reviewed CALR reference transcript/protein pair	Reference identity only; not clinical interpretation
+CALR-TYPE1	ClinVar + literature	NM_004343.4:c.1099_1150del; p.Leu367fs	Canonical Type 1 exon 9 deletion	Somatic MPN context must be distinguished from germline ClinVar fields
+CALR-TYPE2	ClinVar + literature	NM_004343.4:c.1154_1155insTTGTC; p.Lys385fs	Canonical Type 2 exon 9 insertion	Somatic MPN context must be distinguished from germline ClinVar fields
+CALR-BIOLOGY	PubMed	Type-like classification	Mutant C-terminal properties distinguish type-like categories	Do not infer phenotype from sequence alone
+CALR-MPN	PubMed	CALR exon 9 in MPN	Recurrent somatic CALR frameshifts occur in JAK2-nonmutated MPNs	Educational/research context; not a clinical assay

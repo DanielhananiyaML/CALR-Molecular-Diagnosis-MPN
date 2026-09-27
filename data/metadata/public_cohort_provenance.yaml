@@ -1,0 +1,13 @@
+cohort:
+  accession: GSE156336
+  title: "Triple negative, JAK2V617F and CALR mutated essential thrombocythemia patients share a unique gene expression signature [RNA-seq]"
+  organism: Homo sapiens
+  experiment: RNA-seq
+  total_samples: 22
+  patient_samples: 18
+  healthy_controls: 4
+  source: NCBI GEO
+  source_url: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE156336
+  processed_file: GSE156336_Raw_Feature_Counts_RNA_seq.txt.gz
+  analysis_scope: "CALR-focused exploratory public-data analysis; not a clinical diagnostic study"
+  download_status: "not bundled; retrieve reproducibly with scripts/download_public_cohort.py"

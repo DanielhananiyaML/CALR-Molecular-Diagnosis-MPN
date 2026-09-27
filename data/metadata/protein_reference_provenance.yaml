@@ -1,0 +1,9 @@
+reference_accession: NP_004334.1
+reference_transcript: NM_004343.4
+uniprot_accession: P27797
+source: NCBI RefSeq protein record, cross-referenced to UniProt reviewed human CALR
+reference_length_aa: 417
+local_fasta: data/raw/NP_004334.1.fasta
+local_file_sha256: 1b749136ca82cc9fbf195aca35f2c39043a318cce41da48b2acde6f5b53f4270
+reconstruction_layer: protein-level validation bridge
+note: This file is used to validate published protein consequences. It does not replace nucleotide-level reconstruction from NM_004343.4.

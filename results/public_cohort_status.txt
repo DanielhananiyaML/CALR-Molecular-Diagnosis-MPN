@@ -1,0 +1,6 @@
+Public cohort layer initialized: GSE156336
+Cohort: 22 samples (18 ET patients, 4 healthy controls)
+Manifest: verified against NCBI GEO sample list
+Quantitative matrix: not downloaded in current environment because NCBI FTP DNS resolution failed
+Interpretation status: NOT READY FOR BIOLOGICAL INFERENCE
+Next execution: run scripts/download_public_cohort.py, then scripts/analyze_public_cohort.py

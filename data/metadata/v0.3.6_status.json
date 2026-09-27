@@ -1,0 +1,10 @@
+{
+  "version": "0.3.6",
+  "protein_reference": "NP_004334.1",
+  "lengths": {
+    "WT": 417,
+    "Type 1": 411,
+    "Type 2": 430
+  },
+  "figures": 4
+}

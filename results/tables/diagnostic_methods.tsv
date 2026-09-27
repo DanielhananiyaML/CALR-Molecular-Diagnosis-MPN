@@ -1,0 +1,5 @@
+method	strength	limitation	role
+PCR_fragment_analysis	rapid screening and fragment-size discrimination	may miss or incompletely characterise non-canonical indels	initial screen
+HRM	can detect sequence-dependent melting differences	requires assay optimisation and may need confirmation	initial/screening
+Sanger sequencing	sequence-level confirmation for suitable amplicons	less scalable and sensitivity depends on variant fraction	confirmation
+Targeted_NGS	parallel detection and broader molecular profiling	requires validated bioinformatic/technical pipeline; coverage matters	comprehensive profiling

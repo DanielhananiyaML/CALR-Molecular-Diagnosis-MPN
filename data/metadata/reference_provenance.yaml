@@ -1,0 +1,26 @@
+reference:
+  gene: CALR
+  accession: NM_004343.4
+  protein: NP_004334.1
+  transcript: ENST00000316448.10
+  source: NCBI RefSeq
+  retrieval_script: scripts/calr_reconstruct.py
+  primary_retrieval_script: scripts/calr_genbank_reference.py
+  sequence_distribution: external-at-runtime
+  genbank_feature_parser: scripts/calr_genbank_reference.py
+  reconstruction_script: scripts/calr_reconstruct.py
+canonical_variants:
+  type_1:
+    current_hgvs: NM_004343.4:c.1099_1150del
+    legacy_hgvs: NM_004343.3:c.1092_1143del52
+    consequence: frameshift
+  type_2:
+    current_hgvs: NM_004343.4:c.1154_1155insTTGTC
+    consequence: frameshift
+
+fallback_source:
+  provider: Ensembl
+  transcript: ENST00000316448.10
+  purpose: MANE-compatible sequence fallback when NCBI E-utilities are unreachable
+  validation: expected CALR CDS length 1254 bp; DNA alphabet; transcript identifier
+  retrieval_script: scripts/calr_sequence_sources.py
