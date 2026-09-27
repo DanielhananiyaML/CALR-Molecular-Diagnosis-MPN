@@ -8,6 +8,9 @@ cohort:
   healthy_controls: 4
   source: NCBI GEO
   source_url: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE156336
-  processed_file: GSE156336_Raw_Feature_Counts_RNA_seq.txt.gz
+  processed_file: GSE156336_Feature_Counts_RNA_seq_CPM.txt.gz
+  processed_dataset: GSE156336_CPM
+  processed_file_sha256: "725c334c6d7aa04ea6c27a39a430d4e42169806d83fbd18eb78f68b0a75ddb8a"
+  processed_file_bytes: 3087827
   analysis_scope: "CALR-focused exploratory public-data analysis; not a clinical diagnostic study"
   download_status: "not bundled; retrieve reproducibly with scripts/download_public_cohort.py"
